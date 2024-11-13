@@ -221,7 +221,7 @@ body {
     }
 
     .logo__principal{
-        width: 15em;
+        width: 18em;
         margin: 1em 1em ;
     }
 
@@ -312,7 +312,7 @@ body {
     }
 
     .logo__principal{
-        width: 19em;
+        width: 20em;
         margin: 1em 1em ;
     }
 
@@ -399,8 +399,8 @@ body {
     }
 
     .logo__principal{
-        width: 22em;
-        margin: 1em 1em 1em 4em ;
+        width: 25em;
+        margin: 1em 1em 1em 3em ;
     }
 
     .container__titulo {
@@ -472,7 +472,7 @@ body {
 
 @media screen and (min-width: 1025px) {
     .logo__principal{
-        width: 30em;
+        width: 45em;
     }
 
     .icons{
